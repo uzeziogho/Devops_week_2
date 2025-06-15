@@ -1,0 +1,3 @@
+plan, develop, deliver, operate
+
+Automating testing, development and deployment
